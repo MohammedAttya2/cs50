@@ -8,3 +8,4 @@ int main (void)
 
     printf("Bottles: %i", minutes * 12);
 }
+
