@@ -1,3 +1,16 @@
+/**
+ * Pset 2
+ * CS50
+ * Mohammed Attya
+ *
+ * @GitHub mohammedattya2
+ *
+ * MIT Licence
+ *
+ * OpenSource OpenMind
+ *
+ */
+
 #include <stdio.h>
 #include <cs50.h>
 #include <stdlib.h>

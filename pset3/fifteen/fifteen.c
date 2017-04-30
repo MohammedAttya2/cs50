@@ -1,4 +1,14 @@
 /**
+ * Pset 3
+ * CS50
+ * Mohammed Attya
+ *
+ * @GitHub mohammedattya2
+ *
+ * MIT Licence
+ *
+ * OpenSource OpenMind
+ *
  * fifteen.c
  *
  * Implements Game of Fifteen (generalized to d x d).

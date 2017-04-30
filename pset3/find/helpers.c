@@ -1,7 +1,14 @@
 /**
- * helpers.c
+ * Pset 3
+ * CS50
+ * Mohammed Attya
  *
- * Helper functions for Problem Set 3.
+ * @GitHub mohammedattya2
+ *
+ * MIT Licence
+ *
+ * OpenSource OpenMind
+ *
  */
 
 #include <cs50.h>
