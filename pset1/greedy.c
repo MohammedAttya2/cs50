@@ -21,7 +21,7 @@ int main (void)
 
     do
     {
-        printf("Height: O hai! How much change is owed?\n");
+        printf("hai! How much change is owed?\n");
         owed = get_float();
     } while (owed < 0);
     int counter = 0;
